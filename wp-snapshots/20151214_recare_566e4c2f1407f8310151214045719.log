@@ -1,0 +1,75 @@
+********************************************************************************
+PACKAGE-LOG: 2015-12-14 04:59:11
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.0
+WORDPRESS:	4.4
+PHP INFO:	5.6.14-1+deb.sury.org~trusty+1 | SAPI: apache2handler
+SERVER:		Apache/2.4.16 (Ubuntu) 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 5000M (128M default) 
+MEMORY STACK: 42MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+TABLES: total:24 | filtered:0 | create:24 
+FILTERED: [] 
+SQL CREATED: 20151214_recare_566e4c2f1407f8310151214045719_database.sql 
+SQL FILE SIZE: 1.43MB (1495333) 
+SQL FILE TIME: 2015-12-14 04:59:12 
+SQL RUNTIME: 0.09 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /var/www/public 
+ARCHIVE FILE: 20151214_recare_566e4c2f1407f8310151214045719_archive.zip 
+FILTERS: *OFF* 
+DIRS:  not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	151.15MB 
+STATS:	Dirs 2,577 | Files 15,223 
+SQL ADDED: 20151214_recare_566e4c2f1407f8310151214045719_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 17800
+    [filename] => /var/www/public/wp-snapshots/tmp/20151214_recare_566e4c2f1407f8310151214045719_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 70.46MB 
+ARCHIVE RUNTIME: 179.07 sec. 
+MEMORY STACK: 48.25MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/var/www/public/wp-snapshots/tmp/20151214_recare_566e4c2f1407f8310151214045719_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.43MB 
+Installer File: 318.81KB 
+Archive File: 70.46MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 183.21 sec.
+PEAK PHP MEMORY USED: 48.75MB
+DONE PROCESSING => 20151214_recare 2015-12-14 05:02:15
+ 
